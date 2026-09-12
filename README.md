@@ -21,7 +21,7 @@ Help users daily mental load by figuring out every day what to cook, with ingred
    category based on ingredients, evaluated with accuracy and confusion matrix
 3. **Matching function:** TF-IDF vectorization + cosine similarity to match 
    user-entered ingredients to the most relevant recipes
-4. **Application:** Streamlit interface — text input → matching function → 
+4. **Application:** Streamlit interface: text input → matching function → 
    recipe suggestions with full ingredient/direction details
 
 ## Ingredient-based clustering
